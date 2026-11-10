@@ -1,12 +1,12 @@
 # Dua Javed
 
-**Data Science MSc Candidate | AI Intern | Python · Machine Learning · Generative AI**
+**MSc Data Science Candidate | AI Intern | Aspiring AI Engineer & Data Scientist**
 
 I build practical AI and data applications, with a focus on healthcare use cases, clinical text processing, machine learning, and API-based deployment. My work spans data preparation and model evaluation through to LLM integration, application development, and containerization.
 
-- **Current role:** AI Intern at Brackets Pvt. Ltd.
-- **Education:** BS Computer Science, PIEAS (2024) · MSc Data Science (thesis stage)
-- **Career interests:** AI Engineer · Data Scientist · Applied Machine Learning
+- **Current role:** AI Intern at Brackets Pvt. Ltd. (currently working)
+- **Education:** MSc Data Science, PUCIT (thesis stage) · BS Computer Science, PIEAS (2024)
+- **Career interests:** AI Engineering · Data Science · Applied Machine Learning
 
 ## Core Skills
 
@@ -34,7 +34,7 @@ For the complete project list, see the **[AI Internship Portfolio](https://githu
 
 ## Education
 
-- **MSc Data Science** — Thesis stage
+- **MSc Data Science** — Punjab University College of Information Technology (PUCIT), thesis stage
 - **BS Computer Science** — Pakistan Institute of Engineering and Applied Sciences (PIEAS), 2024
 
 ## Connect
